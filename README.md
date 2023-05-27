@@ -2,7 +2,7 @@
 
 Esse é meu primeiro projeto utilizando HTML e CSS.
 
-
+![capa readme ](https://github.com/sarahlibiny/portifolio/assets/122837977/46d96380-251a-4af8-918b-73eb4aa307a0)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
